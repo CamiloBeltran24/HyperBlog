@@ -1,3 +1,5 @@
 hola esta es la historia de camilo en git bash
 
+tengo 26 años, naci en colombia
+
 lorem lorem lorem lorem lorem lorem lorem lorem   
